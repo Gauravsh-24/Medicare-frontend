@@ -1,0 +1,2 @@
+- [x] Create login page at frontend/app/login/page.js with a simple login form
+- [x] Update Hero.jsx to add "Get Started" button that redirects to /login using Next.js Link
